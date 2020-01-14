@@ -4,4 +4,4 @@ The jpg file shows the two matrix that will implement the algorithm.
 
 The algorithm is  optimised to reduce time and resources for the specific examples
 
-The pdf holds the code and results of each matrix
+The pdf holds the code and results of each matrix.
